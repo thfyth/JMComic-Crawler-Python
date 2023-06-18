@@ -1,16 +1,12 @@
 # 下方填入你要下载的本子的id，一行一个。
 # 每行的首尾可以有空白字符
-jm_albums = '''
-452859
-
-
-'''
-
 
 def main():
     from jmcomic import str_to_list, download_album
     # 下载漫画
-    download_album(str_to_list(jm_albums), option=get_option())
+    download_album(str_to_list('''
+452859
+'''), option=get_option())
 
 
 def get_option():
