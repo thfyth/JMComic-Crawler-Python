@@ -7,9 +7,6 @@ def main():
     download_album(str_to_list('''
 310628
 306941
-390126
-361075
-191091
 '''), option=get_option())
 
 
