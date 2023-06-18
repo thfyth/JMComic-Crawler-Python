@@ -5,8 +5,8 @@ def main():
     from jmcomic import str_to_list, download_album
     # 下载漫画
     download_album(str_to_list('''
-310628
-306941
+186442
+184505
 '''), option=get_option())
 
 
