@@ -9,7 +9,6 @@ def main():
 390126
 361075
 293534
-221309
 '''), option=get_option())
 
 
