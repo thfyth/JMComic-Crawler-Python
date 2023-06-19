@@ -6,7 +6,7 @@ def main():
     # 下载漫画
     download_album(str_to_list('''
 390129
-255300
+
 
 
 '''), option=get_option())
