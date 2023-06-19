@@ -7,7 +7,7 @@ def main():
     download_album(str_to_list('''
 246410
 221309
-255300
+
 
 '''), option=get_option())
 
