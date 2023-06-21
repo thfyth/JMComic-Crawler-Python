@@ -7,7 +7,6 @@ def main():
     download_album(str_to_list('''
 214842
 301222
-
 '''), option=get_option())
 
 
